@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/final_exam_training/.idea/
+/midd_exam_training/.idea/
+/presentation/.idea/
+/lecture_1/.idea/
+/lecture_2/.idea/
+/lecture_3/.idea/
+/lecture_4/.idea/
+/lecture_5/.idea/
+/lecture_6/.idea/
+/lecture_7/.idea/
+/lecture_8/.idea/
+/lecture_9/.idea/
+/lecture_10/.idea/
+/lecture_11/.idea/
+/lecture_12/.idea/
+/lecture_13/.idea/
